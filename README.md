@@ -6,8 +6,8 @@
 
 请从 [Releases](https://github.com/luwinkey/aglink_pro_releases/releases) 下载最新稳定版本：
 
-- `AGLink Pro-Setup-<version>.exe`：推荐的 NSIS 安装版，支持软件内在线升级。
-- `AGLink Pro-<version>-Portable.exe`：免安装版本，需要手动下载并替换。
+- `AGLink-Pro-Setup-<version>.exe`：推荐的 NSIS 安装版，支持软件内在线升级。
+- `AGLink-Pro-<version>-Portable.exe`：免安装版本，需要手动下载并替换。
 
 ## 系统要求
 
